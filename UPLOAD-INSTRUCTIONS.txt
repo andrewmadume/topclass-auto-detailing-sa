@@ -1,6 +1,6 @@
 GITHUB PAGES FIX
 
-Extract this ZIP. Upload ALL extracted contents directly to the root of the topclass-auto-detailing-website repository on main, replacing matching files. Do not upload the ZIP itself or wrap the files in another folder.
+Extract this ZIP. Upload ALL extracted contents directly to the root of the topclass-auto-detailing-sa repository on main, replacing matching files. Do not upload the ZIP itself or wrap the files in another folder.
 
 Settings > Pages > Build and deployment: Deploy from a branch; main; /(root). Save. Wait for the Pages deployment to finish, then hard-refresh the website.
 
